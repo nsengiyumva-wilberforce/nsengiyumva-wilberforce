@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsengiyumva-wilberforce" alt="nsengiyumva-wilberforce" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/nsenga_w4c" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/nsenga_w4c?logo=twitter&style=for-the-badge" alt="https://twitter.com/nsenga_w4c" /></a> </p>
 
 - 🔭 I’m currently contributing to [git](https://git.github.io/)
 
@@ -24,6 +23,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/nsenga_w4c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/nsenga_w4c" height="30" width="40" /></a>
+</p>
+<p align="left">
+mobile: +25685065399
+email: nsengiyumvawilberforce@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
